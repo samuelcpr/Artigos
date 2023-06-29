@@ -1,4 +1,3 @@
-
 ```
 Exported with AIPRM https://www.aiprm.com by samuel carlos on 29/06/2023, 10:58:00
 ```
@@ -14,7 +13,10 @@ crie um curso sobre a aws do basico ao avançado
 **ChatGPT:**
 Título do Curso: Curso Completo de AWS - Do Básico ao Avançado
 Introdução:
-Bem-vindo ao Curso Completo de AWS - Do Básico ao Avançado! Neste curso abrangente, você aprenderá tudo o que precisa saber sobre a Amazon Web Services (AWS), desde os conceitos básicos até os tópicos avançados. A AWS é uma plataforma de serviços em nuvem líder no mercado, oferecendo uma ampla gama de serviços para ajudar indivíduos e empresas a alcançarem suas metas de negócios.
+Bem-vindo ao Curso Completo de AWS - Do Básico ao Avançado! Neste curso abrangente, você aprenderá tudo o que precisa
+saber sobre a Amazon Web Services (AWS), desde os conceitos básicos até os tópicos avançados. A AWS é uma plataforma de
+serviços em nuvem líder no mercado, oferecendo uma ampla gama de serviços para ajudar indivíduos e empresas a alcançarem
+suas metas de negócios.
 Módulo 1: Introdução à AWS
 1.1 O que é a AWS e por que ela é importante?
 1.2 Visão geral dos serviços e produtos da AWS
@@ -54,4 +56,7 @@ Módulo 7: Projeto Final
 7.1 Desenvolvimento de um projeto prático utilizando os conhecimentos adquiridos
 7.2 Implementação de uma arquitetura escalável e segura na AWS
 7.3 Testes, implantação e monitoramento da aplicação
-Ao final deste curso, você terá adquirido um amplo conjunto de habilidades na AWS, permitindo que você crie, implemente e gerencie uma ampla variedade de serviços em nuvem. Estará preparado para enfrentar desafios do mundo real e aproveitar ao máximo a AWS para impulsionar o sucesso de seus projetos e negócios. Esperamos que você aproveite e tenha uma jornada de aprendizado enriquecedora na AWS!
+Ao final deste curso, você terá adquirido um amplo conjunto de habilidades na AWS, permitindo que você crie, implemente
+e gerencie uma ampla variedade de serviços em nuvem. Estará preparado para enfrentar desafios do mundo real e aproveitar
+ao máximo a AWS para impulsionar o sucesso de seus projetos e negócios. Esperamos que você aproveite e tenha uma jornada
+de aprendizado enriquecedora na AWS!
